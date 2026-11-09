@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Batch-API-Test-Runner/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Batch-API-Test-Runner?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Batch-API-Test-Runner/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Batch-API-Test-Runner?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Batch-API-Test-Runner/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Batch-API-Test-Runner?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Batch-API-Test-Runner/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -48,7 +48,7 @@ The industry exhibits a **moderately fragmented** ecosystem at the developer and
 
 *Repositories are sorted in descending order by GitHub stargazer count.*
 
-| Tool | Stars | License | Primary Focus | Description |
+| Tool | GitHub_Stars | License | Primary Focus | Description |
 |---|---|---|---|---|
 | **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** | [![Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers) | AGPL-3.0 | Batch Collection & Testing | Lightweight, fast web-based API development ecosystem with built-in batch test runners and real-time protocol support. |
 | **[Bruno](https://github.com/usebruno/bruno)** | [![Stars](https://img.shields.io/github/stars/usebruno/bruno?style=social&color=white)](https://github.com/usebruno/bruno/stargazers) | MIT | Offline Collection Runner | Fast, Git-friendly open-source desktop client and CLI collection runner using plain-text Bru language. |
